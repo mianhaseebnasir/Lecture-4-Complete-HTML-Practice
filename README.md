@@ -1,4 +1,5 @@
 📘 Lecture 4 – Complete HTML Practice
+
 📌 Description
 
 This repository contains Lecture 4 practice code delivered by Mian Ahmad Basit.
@@ -24,6 +25,7 @@ Media elements (Video & Audio)
 This lecture focuses on building a strong foundation in HTML structure and semantic web development.
 
 🧠 Topics Covered
+
 1️⃣ HTML Boilerplate
 
 2️⃣ Text & Formatting
@@ -103,7 +105,9 @@ Create tables and navigation systems
 🚀 Author
 
 Mian Haseeb Nasir
+
 Founder – Nova-Stack Technologies (2026)
+
 MERN Stack & AI Developer
 
 #HTML #WebDevelopment #Frontend #NovaStackTechnologies #MianHaseebNasir
