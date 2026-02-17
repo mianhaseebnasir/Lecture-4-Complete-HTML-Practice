@@ -26,53 +26,47 @@ This lecture focuses on building a strong foundation in HTML structure and seman
 🧠 Topics Covered
 1️⃣ HTML Boilerplate
 
-<!DOCTYPE html>
-
-<html>, <head>, <body>
-
-Meta tags & Title
-
 2️⃣ Text & Formatting
 
 Heading tags (h1–h6)
 
 Paragraph tag
 
-&nbsp; (Non-breaking space)
+(Non-breaking space)
 
 3️⃣ Lists
 
-Ordered List <ol>
+Ordered List 
 
-Unordered List <ul>
+Unordered List
 
 4️⃣ Images & Links
 
-<img> tag
+img tag
 
-<a> anchor tag
+a anchor tag
 
 Linking image with external portfolio
 
 5️⃣ Semantic HTML
 
-<header>
+header
 
-<nav>
+nav
 
-<section>
+section
 
-<article>
+article
 
-<main>
+main
 
-<footer>
+footer
 
 6️⃣ Tables
 
 Table structure
 
-<tr>, <th>, <td>
+tr, th, td
 
 Border, cellpadding, cellspacing
 
@@ -88,9 +82,9 @@ Submit button
 
 8️⃣ Multimedia
 
-<video> tag
+video tag
 
-<audio> tag
+audio tag
 
 🎯 Learning Outcome
 
